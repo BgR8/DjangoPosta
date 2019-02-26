@@ -1,0 +1,7 @@
+db.sqlite3
+
+eposta/__pycache__/*
+posta/__pycache__/*
+
+posta/migrations/*
+!posta/migrations/__init__.py
